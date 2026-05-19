@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "description": "Noise-cancelling over-ear headphones with 30 hours battery backup.",
+    "price": 89.99
+  },
+  {
+    "id": 2,
+    "name": "Gaming Mechanical Keyboard",
+    "description": "RGB backlit mechanical keyboard with blue switches for fast typing and gaming.",
+    "price": 59.5
+  },
+  {
+    "id": 3,
+    "name": "Smart Fitness Watch",
+    "description": "Waterproof smartwatch with heart-rate monitoring and sleep tracking features.",
+    "price": 120
+  },
+  {
+    "id": 1779207659193,
+    "name": "Iphone",
+    "description": "Product description-1 ",
+    "price": 3000
+  }
+]
