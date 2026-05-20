@@ -1,11 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "Wireless Bluetooth Headphones",
-    "description": "Noise-cancelling over-ear headphones with 30 hours battery backup.",
-    "price": 89.99
-  },
-  {
     "id": 2,
     "name": "Gaming Mechanical Keyboard",
     "description": "RGB backlit mechanical keyboard with blue switches for fast typing and gaming.",
